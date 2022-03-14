@@ -100,3 +100,12 @@ DL: https://www.curseforge.com/minecraft/mc-mods/mekanismores/files/all?filter-g
 
 
 以上で終わりです。お疲れ様です。
+
+---
+
+### 補足事項
+取り消し線がついているものは、
+
+https://docs.mjrlegends.com/ExtraPlanets/1.12.2compact/ 
+
+上記のリンクの通りに設定すれば、クラッシュすることなく起動します。
