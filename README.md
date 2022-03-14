@@ -109,3 +109,5 @@ DL: https://www.curseforge.com/minecraft/mc-mods/mekanismores/files/all?filter-g
 https://docs.mjrlegends.com/ExtraPlanets/1.12.2compact/ 
 
 上記のリンクの通りに設定すれば、クラッシュすることなく起動します。
+
+Reason: https://discord.com/channels/930083398691733565/948178885797871676/952858500726399016
